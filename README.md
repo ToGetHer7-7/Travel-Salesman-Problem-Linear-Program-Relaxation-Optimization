@@ -1,0 +1,2 @@
+# Travel-Salesman-Problem-Linear-Program-Relaxation-Optimization
+This solution focus on figuring out Travel Salesman Problem Linear Program Relaxation optimal solution by pulp. It shows the whole process and workflow. For instance, objective function design, constraint setting , subtours elimination, LP relaxation and finally get the get the optimal solution. Welcome to give some suggestions or discuss with me！
